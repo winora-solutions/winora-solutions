@@ -5,7 +5,7 @@
 **Win Ora** cung cấp các giải pháp số dành cho doanh nghiệp, tập trung vào xây dựng website, phát triển phần mềm và các giải pháp hỗ trợ vận hành, quản lý và phát triển kinh doanh trên nền tảng số.
 
 🌐 Website chính thức: https://winora.vn/
-📞 Hotline: 09 4848 2929
+📞 Hotline: 0948 482 929
 📧 Email: contact.winora@gmail.com
 
 ---
